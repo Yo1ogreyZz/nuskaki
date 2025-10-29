@@ -1,0 +1,75 @@
+# NUS Campus Information Sample
+
+National University of Singapore (NUS) is Singapore's flagship university.
+
+## Central Library
+
+The Central Library is located at 12 Kent Ridge Crescent, Singapore 119275.
+
+Opening Hours:
+- Monday to Friday: 8:00 AM - 10:00 PM
+- Saturday: 9:00 AM - 6:00 PM
+- Sunday: Closed
+
+Services:
+- Book borrowing and returns
+- Study spaces
+- Computer workstations
+- Printing services
+- Group discussion rooms
+
+## University Town (UTown)
+
+UTown is a vibrant residential and educational complex.
+
+Facilities:
+- Residential Colleges
+- Teaching facilities
+- Sports facilities including swimming pool and gym
+- Food courts and cafes
+- Stephen Riady Centre
+
+Location: University Town, NUS Campus
+
+## Student Services
+
+NUS provides comprehensive student services:
+
+1. Student Affairs Office
+   - Located at University Hall
+   - Handles student welfare and activities
+   - Office hours: 9:00 AM - 5:00 PM (Weekdays)
+
+2. Career Centre
+   - Provides career guidance and counseling
+   - Organizes career fairs and workshops
+   - Located at MD5, Level 2
+
+3. Health Services
+   - University Health Centre at Kent Ridge
+   - Open daily for medical consultations
+   - Emergency services available 24/7
+
+## Getting Around Campus
+
+NUS provides free internal shuttle bus services:
+
+- Bus A1, A2: Main campus loop
+- Bus D1, D2: Between Kent Ridge and UTown
+- Bus K: Kent Ridge to nearby MRT stations
+
+Operating hours: 7:00 AM - 11:00 PM daily
+
+## Dining Options
+
+The campus has numerous dining options:
+
+- Techno Edge Canteen
+- The Deck (near University Hall)
+- Frontier Canteen
+- Engineering Canteen
+- Science Canteen
+- UTown Food Court
+
+Most canteens are open from 7:30 AM to 8:00 PM on weekdays.
+

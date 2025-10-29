@@ -21,3 +21,20 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# RAG Backend
+rag_backend/data/vector_db/*
+!rag_backend/data/vector_db/.gitkeep
+rag_backend/__pycache__/
+rag_backend/*.pyc
+rag_backend/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+

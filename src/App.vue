@@ -14,22 +14,22 @@
       <section class="quick-actions">
         <h2>Quick Actions:</h2>
         <div class="actions">
-          <button class="action-button" style="background: linear-gradient(to right, #ff7a18, #ff3e3e);">
+          <button class="action-button" style="background: linear-gradient(to right, #ff7a18, #ff3e3e);" @click="openLink('https://www.nus.edu.sg/campusmap')">
             <span class="icon">📍</span> Campus Map
           </button>
-          <button class="action-button" style="background: linear-gradient(to right, #007bff, #0056b3);">
+          <button class="action-button" style="background: linear-gradient(to right, #007bff, #0056b3);" @click="openLink('https://uci.nus.edu.sg/campus-life/campus-services/retail-dining')">
             <span class="icon">🍽️</span> Dining Options
           </button>
-          <button class="action-button" style="background: linear-gradient(to right, #6f42c1, #5a32a3);">
+          <button class="action-button" style="background: linear-gradient(to right, #6f42c1, #5a32a3);" @click="openLink('https://nus.edu.sg/nuslibraries')">
             <span class="icon">📚</span> Libraries
           </button>
-          <button class="action-button" style="background: linear-gradient(to right, #20c997, #17a2b8);">
+          <button class="action-button" style="background: linear-gradient(to right, #20c997, #17a2b8);" @click="openLink('https://nus.edu.sg/nuslibraries/spaces/facilities')">
             <span class="icon">☕</span> Study Spots
           </button>
-          <button class="action-button" style="background: linear-gradient(to right, #e83e8c, #d63384);">
+          <button class="action-button" style="background: linear-gradient(to right, #e83e8c, #d63384);" @click="openLink('https://osa.nus.edu.sg/events')">
             <span class="icon">📅</span> Events
           </button>
-          <button class="action-button" style="background: linear-gradient(to right, #6610f2, #520dc2);">
+          <button class="action-button" style="background: linear-gradient(to right, #6610f2, #520dc2);" @click="openLink('https://nuscollege.nus.edu.sg/college-life/campus-facilities')">
             <span class="icon">🏠</span> Facilities
           </button>
         </div>
@@ -183,6 +183,10 @@ export default {
     handleQuickAction(action) {
       this.userInput = action;
       this.sendMessage();
+    },
+
+    openLink(url) {
+      window.open(url, '_blank');
     }
   }
 };
